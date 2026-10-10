@@ -1,28 +1,5 @@
-# 💻 C Language Assignment
-
-Welcome to my **C-Language-Assignment** repository! 👋
-
-This repository contains my C programming assignments completed as part of my college coursework. I created this repository to organize my assignments, improve my programming skills, and help other students understand C programming through practical examples.
-
-I will continue uploading new assignments as I learn and complete more topics in C programming.
-
----
-
-## 📚 About This Repository
-
-The purpose of this repository is to maintain a collection of C language assignments in one place.
-
-The programs are organized into separate `.c` files to make them easier to explore, understand, and practice.
-
-Whether you are a student completing college assignments or a beginner learning C programming, I hope this repository will be helpful to you.
-
----
-
-## 📂 Repository Structure
-
-* C-Language-Assignment/
-  * README.md
-  *assignment_01.c
+ `README.md`
+  assignment_01.c
   *assignment_02.c
   *assignment_03.c
   *assignment_04.c
