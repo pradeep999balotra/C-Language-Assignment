@@ -20,14 +20,13 @@ Whether you are a student completing college assignments or a beginner learning 
 
 ## 📂 Repository Structure
 
-C-Language-Assignment/
-│
-├── README.md
-├── assignment_01.c
-├── assignment_02.c
-├── assignment_03.c
-├── assignment_04.c
-└── assignment_05.c
+* C-Language-Assignment/
+  * README.md
+  *assignment_01.c
+  *assignment_02.c
+  *assignment_03.c
+  *assignment_04.c
+  *assignment_05.c
 
 *Note: More assignment files will be added as I progress through my coursework.*
 
