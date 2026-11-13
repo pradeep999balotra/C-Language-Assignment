@@ -4,6 +4,29 @@
   *assignment_03.c
   *assignment_04.c
   *assignment_05.c
+  *assignment_06.c
+  *assignment_07.c
+  *assignment_08.c
+  *assignment_09.c
+  *assignment_10.c
+  *assignment_11.c
+  *assignment_12.c
+  *assignment_13.c
+  *assignment_14.c
+  *assignment_15.c
+  *assignment_16.c
+  *assignment_17.c
+  *assignment_18.c
+  *assignment_19.c
+  *assignment_20.c
+  *assignment_21.c
+  *assignment_22.c
+  *assignment_23.c
+  *assignment_27.c
+  *assignment_28.c
+  *assignment_29.c
+  *assignment_30.c
+
 
 *Note: More assignment files will be added as I progress through my coursework.*
 
